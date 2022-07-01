@@ -9,5 +9,6 @@ namespace AmethystSoftware.AmethystRed.Model
     public class Filter
     {
         int NumberOfFilter;
+        int NameOfFilter;
     }
 }
