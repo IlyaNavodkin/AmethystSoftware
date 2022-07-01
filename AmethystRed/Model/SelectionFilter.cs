@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace AmethystSoftware.AmethystRed.Model
 {
-    public class Filter
+    public class SelectionFilter
     {
-        int NumberOfFilter;
-        int NameOfFilter;
-        int IDOfFilter;
         string message;
-        string name;
+
     }
 }

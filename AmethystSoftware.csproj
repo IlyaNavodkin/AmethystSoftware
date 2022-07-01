@@ -68,6 +68,7 @@
     <Compile Include="AmethystRed\Model\AmethystRedModel.cs" />
     <Compile Include="AmethystRed\Model\MepElementsFilterSelection.cs" />
     <Compile Include="AmethystRed\Model\ResultElement.cs" />
+    <Compile Include="AmethystRed\Model\SelectionFilter.cs" />
     <Compile Include="Application.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RelayCommand.cs" />
