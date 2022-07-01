@@ -10,5 +10,6 @@ namespace AmethystSoftware.AmethystRed.Model
     {
         int NumberOfFilter;
         string sss;
+        string EWRROR;
     }
 }
