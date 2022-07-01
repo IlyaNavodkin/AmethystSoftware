@@ -12,5 +12,6 @@ namespace AmethystSoftware.AmethystRed.Model
         string sss;
         string EWRROR;
         string Login;
+        string password;
     }
 }
