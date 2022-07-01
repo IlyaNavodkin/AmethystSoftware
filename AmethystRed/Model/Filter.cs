@@ -10,5 +10,6 @@ namespace AmethystSoftware.AmethystRed.Model
     {
         int NumberOfFilter;
         int NameOfFilter;
+        int IDOfFilter;
     }
 }
